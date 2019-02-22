@@ -1,0 +1,5 @@
+.button{
+    -fx-padding:10px;
+    -fx-border-insets:10px;
+    -fx-background-insets:5px;
+}
